@@ -1,15 +1,15 @@
 ## Hi there 👋
 ### 🚀 技能
-- **编程语言：** JavaScript
-- **框架：** React, Next.js, Node
+- **编程语言：** JavaScript, Css
+- **框架：** React, Next.js, Node, Vue
 - **工具：** Docker, Git, VSCode
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertxy&layout=compact&theme=vue)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertxy&layout=compact&theme=ambient_gradient)
 
 ---
 
 ### 📊 GitHub 数据
-![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=herbertxy&show_icons=true&theme=vue)
+![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=herbertxy&show_icons=true&theme=ambient_gradient)
 
 <!--
 **herbertxy/herbertxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
