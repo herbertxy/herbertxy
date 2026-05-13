@@ -1,27 +1,16 @@
-## Hi there 👋
-### 🚀 技能
-- **编程语言：** JavaScript, Css
-- **框架：** React, Next.js, Node, Vue
-- **工具：** Docker, Git, VSCode
-  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herbertxy&layout=compact&theme=ambient_gradient)
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&logoColor=white"/>
+</p>
 
----
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=herbertxy&show_icons=true&hide_border=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertxy&layout=compact&hide_border=true&theme=transparent">
+</p>
 
-### 📊 GitHub 数据
-![你的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=herbertxy&show_icons=true&theme=ambient_gradient)
-
-<!--
-**herbertxy/herbertxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![亮色](https://raw.githubusercontent.com/Wood-Q/Wood-Q/output/github-contribution-grid-snake.svg)
